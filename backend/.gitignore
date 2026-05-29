@@ -1,0 +1,3 @@
+# Keep database passwords out of version control
+.env
+node_modules/
